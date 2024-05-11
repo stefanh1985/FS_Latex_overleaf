@@ -32,7 +32,7 @@ Legende:
 
  **Modul 7** Dokumenten in Spalten unterteilen + Abstract einfügen
 
- **Modul 8** Literaturverzeichnis erstellen 
+ **Modul 8** Zitate und Literaturverzeichnis erstellen 
 
 **Modul 9** Wenn ich am Code verzweifle
 
@@ -150,14 +150,10 @@ Wie in klassischen Schreibprogrammen kann Latex Bilder einbinden und auch als Ab
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/tSwSgc7Lqk4?si=D1AC9EPQzsPvDyvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Modul 8 Literaturverzeichnis erstellen 📚
+# Modul 8 Zitate und  Literaturverzeichnis erstellen 📚
 Gerade in wissenschaftlichen Arbeiten ist das Verwenden von Literatur und deren lükenlose Offenlegung essenziell notwendig. Latex kann auch an dieser Stelle problemlos Hilfestellung leisten.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kG8VzYm5hBQ?si=2f2bGcDcFwfp5QB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-**Literatur von Zotero nach Latex**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aew11SId22c?si=mcQcY2JFW8u2rpJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uOkYNus1khg?si=V13nQiY4x7joNd9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
