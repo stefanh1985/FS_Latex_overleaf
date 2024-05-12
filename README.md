@@ -116,6 +116,8 @@ Eine Differenziertere Darstellung samt Erklärung findet sich in diesem [PDF] (h
 
 Wie in anderen Schreibprogrammen auch muss auch Latex erklärt werden, wie die Formatierung aussehen soll. Folgendes [PDF](https://www.uni-frankfurt.de/53601074/Beispieldoc.pdf) gibt einen Schnellübersicht über die wichtigsten Befehle bezogen auf ein Textdokument.
 
+Und auch Farbe kann Latext.  Hier  im [PDF](https://latexcolor.com/) findet ihr die dementsprechenden Farbcodes.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RPOTlNam3k?si=KXkNQKaw4SOsdc8P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >>> ▶️ Aufgaben: Nutze folgende [PDF](https://www.uni-frankfurt.de/53501467/latex_kurs_aufgaben_textfluss.pdf) und bearbeite sie in deinem ersten Testdokument
